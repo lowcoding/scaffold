@@ -1,5 +1,26 @@
 [
 	{
-		"type": "1212"
+		"category": "PC Web",
+		"icon": "",
+		"scaffolds": [
+			{
+				"title": "vue-typescript-stater",
+				"description": "",
+				"screenshot": "",
+				"repository": ""
+			}
+		]
+	},
+	{
+		"category": "Mobile Web",
+		"icon": "",
+		"scaffolds": [
+			{
+				"title": "vue-typescript-stater",
+				"description": "",
+				"screenshot": "",
+				"repository": ""
+			}
+		]
 	}
 ]
