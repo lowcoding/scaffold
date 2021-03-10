@@ -1,25 +1,14 @@
 [
 	{
-		"category": "PC Web",
-		"icon": "",
+		"category": "Other",
+		"icon": "https://s3.ax1x.com/2021/03/07/6M8rdO.png",
 		"scaffolds": [
 			{
-				"title": "vue-typescript-stater",
-				"description": "",
-				"screenshot": "",
-				"repository": ""
-			}
-		]
-	},
-	{
-		"category": "Mobile Web",
-		"icon": "",
-		"scaffolds": [
-			{
-				"title": "vue-typescript-stater",
-				"description": "",
-				"screenshot": "",
-				"repository": ""
+				"title": "lowcode mock",
+				"description": "mock and proxy tool",
+				"screenshot": "https://gitee.com/img-host/img-host/raw/master/2020/11/05/1604587962875.jpg",
+				"repository": "https://github.com/lowcode-scaffold/lowcode-mock.git",
+				"repositoryType": "git"
 			}
 		]
 	}
