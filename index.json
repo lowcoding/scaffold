@@ -2,8 +2,10 @@
 	{
 		"category": "Other",
 		"icon": "https://s3.ax1x.com/2021/03/07/6M8rdO.png",
+		"uuid": "a5fc0a2014654339a6785e0d2b8b4809",
 		"scaffolds": [
 			{
+				"uuid": "55daa924065f4d18b78c9263da62923f",
 				"title": "lowcode mock",
 				"description": "mock and proxy tool",
 				"screenshot": "https://gitee.com/img-host/img-host/raw/master/2020/11/05/1604587962875.jpg",
