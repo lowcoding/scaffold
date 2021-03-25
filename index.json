@@ -11,6 +11,14 @@
 				"screenshot": "https://gitee.com/img-host/img-host/raw/master/2020/11/05/1604587962875.jpg",
 				"repository": "https://gitee.com/lowcode-scaffold/lowcode-mock.git",
 				"repositoryType": "git"
+			},
+			{
+				"uuid": "16609b8e4c2a410fb7ae0cbd382404ae",
+				"title": "lowcode 物料模板",
+				"description": "lowcode 物料模板",
+				"screenshot": "https://gitee.com/img-host/img-host/raw/master/2020/11/05/1604587962875.jpg",
+				"repository": "https://gitee.com/lowcode-scaffold/lowcode-materials.git",
+				"repositoryType": "git"
 			}
 		]
 	}
