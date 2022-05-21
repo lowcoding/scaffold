@@ -9,7 +9,7 @@
         "title": "vue2-composition-api-tsx",
         "description": "vue2-composition-api-tsx",
         "screenshot": "https://fastly.jsdelivr.net/gh/migrate-gitee/img-host/2020/11/05/1604587962875.jpg",
-        "repository": "https://gitee.com/lowcode-scaffold/vue2-composition-api-tsx.git",
+        "repository": "https://github.com/lowcode-scaffold/vue2-composition-api-tsx.git",
         "repositoryType": "git"
       }
     ]
@@ -24,7 +24,7 @@
         "title": "react-mvp",
         "description": "mvp by mobx, formily/reactive, react hooks",
         "screenshot": "https://fastly.jsdelivr.net/gh/migrate-gitee/img-host/2020/11/05/1604587962875.jpg",
-        "repository": "https://gitee.com/lowcode-scaffold/react-mvp.git",
+        "repository": "https://github.com/lowcode-scaffold/react-mvp.git",
         "repositoryType": "git"
       },
       {
@@ -32,7 +32,7 @@
         "title": "taro-react-mvp",
         "description": "taro mvp by mobx, formily/reactive, react hooks",
         "screenshot": "https://fastly.jsdelivr.net/gh/migrate-gitee/img-host/2020/11/05/1604587962875.jpg",
-        "repository": "https://gitee.com/lowcode-scaffold/taro-react-mvp.git",
+        "repository": "https://github.com/lowcode-scaffold/taro-react-mvp.git",
         "repositoryType": "git"
       },
       {
@@ -40,7 +40,7 @@
         "title": "vue-mvp",
         "description": "mvp by mobx, formily/reactive, vue reactive",
         "screenshot": "https://fastly.jsdelivr.net/gh/migrate-gitee/img-host/2020/11/05/1604587962875.jpg",
-        "repository": "https://gitee.com/lowcode-scaffold/vue-mvp.git",
+        "repository": "https://github.com/lowcode-scaffold/vue-mvp.git",
         "repositoryType": "git"
       },
       {
@@ -48,7 +48,7 @@
         "title": "taro-vue-mvp",
         "description": "mvp by mobx, formily/reactive, vue reactive",
         "screenshot": "https://fastly.jsdelivr.net/gh/migrate-gitee/img-host/2020/11/05/1604587962875.jpg",
-        "repository": "https://gitee.com/lowcode-scaffold/taro-vue-mvp.git",
+        "repository": "https://github.com/lowcode-scaffold/taro-vue-mvp.git",
         "repositoryType": "git"
       },
       {
@@ -56,7 +56,7 @@
         "title": "vue2-mvp",
         "description": "mvp by mobx, formily/reactive, vue composition-api",
         "screenshot": "https://fastly.jsdelivr.net/gh/migrate-gitee/img-host/2020/11/05/1604587962875.jpg",
-        "repository": "https://gitee.com/lowcode-scaffold/vue2-mvp.git",
+        "repository": "https://github.com/lowcode-scaffold/vue2-mvp.git",
         "repositoryType": "git"
       },
       {
@@ -64,7 +64,7 @@
         "title": "mvp-demo-mock",
         "description": "mvp-demo-mock",
         "screenshot": "https://fastly.jsdelivr.net/gh/migrate-gitee/img-host/2020/11/05/1604587962875.jpg",
-        "repository": "https://gitee.com/lowcode-scaffold/mvp-demo-mock.git",
+        "repository": "https://github.com/lowcode-scaffold/mvp-demo-mock.git",
         "repositoryType": "git"
       }
     ]
@@ -79,7 +79,7 @@
         "title": "lowcode mock",
         "description": "mock and proxy tool",
         "screenshot": "https://fastly.jsdelivr.net/gh/migrate-gitee/img-host/2020/11/05/1604587962875.jpg",
-        "repository": "https://gitee.com/lowcode-scaffold/lowcode-mock.git",
+        "repository": "https://github.com/lowcode-scaffold/lowcode-mock.git",
         "repositoryType": "git"
       },
       {
@@ -87,7 +87,7 @@
         "title": "lowcode 物料模板",
         "description": "lowcode 物料模板",
         "screenshot": "https://fastly.jsdelivr.net/gh/migrate-gitee/img-host/2020/11/05/1604587962875.jpg",
-        "repository": "https://gitee.com/lowcode-scaffold/lowcode-materials.git",
+        "repository": "https://github.com/lowcode-scaffold/lowcode-materials.git",
         "repositoryType": "git"
       }
     ]
