@@ -60,6 +60,14 @@
         "repositoryType": "git"
       },
       {
+        "uuid": "1f5678c963f94d52bad74ada4c5a85db",
+        "title": "vue2.7-mvp",
+        "description": "mvp by mobx, formily/reactive, vue2.7 composition-api",
+        "screenshot": "https://fastly.jsdelivr.net/gh/migrate-gitee/img-host/2020/11/05/1604587962875.jpg",
+        "repository": "https://github.com/lowcode-scaffold/vue2.7-mvp.git",
+        "repositoryType": "git"
+      },
+      {
         "uuid": "ca4cc6765f0b4755b878b05a7b848395",
         "title": "mvp-demo-mock",
         "description": "mvp-demo-mock",
